@@ -14,10 +14,7 @@ Para ejecutar esta aplicación, debes tener instaladas las siguientes biblioteca
 
 1. Abre tu terminal 
 2. Navega al directorio donde se encuentra el archivo principal de la aplicación `AplicacionTareas.py`.
-3. Ejecuta el siguiente comando para iniciar la aplicación:
-
-   ```bash
-   py ./AplicacionTareas/AplicacionTareas.py
+3. Ejecuta la aplicacion
 
 ## Ejemplo de ejucucion
-Imagen adjunta
+![alt text](<Ejemplo de ejucucion.JPG>)
